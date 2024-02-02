@@ -46,5 +46,5 @@ Java, Spring Boot, Spring Security, MySQL, AWS, JPA, Redis, JWT, OAuth2
 개발 기간: 2023.12 ~
 
 활용 기술:<br />
-프론트 - Javascript, React, styled-components
+프론트 - Javascript, React, styled-components<br />
 백 - Java, Spring Boot, MySQL, AWS, JPA
