@@ -1,5 +1,6 @@
 # Developer 최우형입니다.
 
+
 ## 🙋‍♂️ Introduce
 <h3>소통을 중요시 생각하는 개발자입니다.</h3>
 
@@ -12,6 +13,9 @@
   - 요구사항 및 API 등을 문서화하는 습관이 있습니다.
   - 개발 공부를 하면서 알게 된 지식, 오류, 고민 등을 블로깅하고 있습니다.
 
+
+<br /><br /><br />
+
 ## ️📞 Contact
 
 📩 E-mail: choiwh000@naver.com
@@ -19,6 +23,9 @@
 💻 Github: https://github.com/rktdngud
 
 📝 Blog: https://velog.io/@rktdngud/posts
+
+
+<br /><br /><br />
 
 ## 📁 Project
 <h3><a href="https://github.com/rktdngud/MOMO">모모</a> <br /> </h3>
