@@ -34,6 +34,8 @@
 
 개발 기간: 2023.06 ~ 2023.07
 
+맡은 업무: 유저CRUD, 로그인/로그아웃 및 인증/인가, JWT 토큰 관리 및 블랙리스트 관리, OAuth2 소셜로그인
+
 
 활용 기술:<br />
 Java, Spring Boot, Spring Security, MySQL, AWS, JPA, Redis, JWT, OAuth2
